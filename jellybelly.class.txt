@@ -1,0 +1,27 @@
+morphotype	id	soure.community	bernth	bonson	bunis.haines	criswell	decaro	deridder	fiegl	franco	french	hendon	hoskins	kelly	kundel	lyu	mckenzie	mckinnon.duggins	meyer	proctor	quinlan	zaret	zellinger
+tangerine	tangerine	165	6	5	6		3	7	8	5	9	11	6	3	8	6	8	7		3	6	9	6
+opaque.red	very.cherry	159	10	10	4		7	6	5	6	9	4	7	3	7	7	6	8		6	5	4	7
+translucent.red	red.apple	65	3	5	5		1	2	4	5	2	0	2	4	3	5	3	1		3	2	3	2
+red.blue.specs	strawberry.jam	38	1	0	2		3	1	1	1	0	0	0	3	0	0	0	2		3	3	0	3
+popcorn	buttered.popcorn	28	1	0	1		1	3	1	0	0	1	1	4	1	0	0	3		1	2	4	0
+translucent.light.green	sour.apple	27	0	0	3		1	0	1	1	3	2	1	3	2	0	2	1		2	1	1	3
+opaque.blue	blueberry	27	0	0	2		2	0	1	1	2	0	0	2	0	1	0	2		2	0	0	0
+translucent.yellow	crushed.pineapple	23	0	1	1		1	1	0	1	1	2	2	2	2	1	2	0		1	1	0	1
+white.brown.specs	toasted.marshmallow	22	2	0	0		1	1	2	1	1	3	0	0	0	0	1	1		0	0	0	0
+pickle	watermellon	19	1	1	0		1	0	3	2	1	0	2	1	2	1	0	1		1	1	1	0
+red.brown	rasberry	18	0	2	1		1	1	0	1	1	1	2	1	1	1	2	1		4	3	3	0
+bubblegum	tuttifruitti	18	1	0	2		2	0	1	0	0	0	1	0	0	0	0	2		1	1	0	0
+translucent.medium.green	kiwi	18	1	0	0		0	0	1	1	1	1	0	1	1	1	0	0		1	0	1	3
+organge.red.speckles	peach	16	1	0	2		0	1	0	1	0	0	1	3	1	0	1	1		1	2	1	0
+opaque.orange	organge.sherbert	13	1	1	0		1	1	1	0	0	1	1	0	0	0	1	0		0	1	0	2
+tranlucent.pink	cotton.cand	12	0	2	0		0	0	1	1	0	0	0	0	1	1	2	0		0	2	1	1
+peach.colored	pink.grapefruit	10	0	1	0		0	0	0	0	0	1	0	0	0	1	1	0		0	0	0	1
+translucent.blue	berry.blue	9	1	1	0		0	1	0	0	0	1	0	0	0	1	0	1		0	0	1	0
+opaque.light.pink	bubble.gum	9	0	0	0		2	1	0	0	0	1	0	0	0	0	1	0		0	1	0	0
+yellow.brown.specs	top.banana	7	0	0	1		1	1	0	1	0	0	0	0	0	0	0	0		0	0	0	0
+green.green.specs	juicy.pear	7	1	0	0		1	1	0	0	0	1	0	0	1	0	0	0		0	0	0	0
+pure.white	coconut	5	0	0	0		1	0	0	0	0	0	1	0	0	2	0	0		1	0	0	0
+opaque.light.green	lemon.lime	4	0	1	0		0	0	0	0	0	0	1	0	0	0	0	0		0	0	0	0
+blight.darkblue.specs	mixed.berry.smoothie	3	0	0	0		0	1	0	1	0	0	2	2	0	1	0	0		0	0	1	1
+off.white	cream.soda	2	0	0	0		0	0	0	0	0	0	0	0	0	1	0	0		0	0	0	0
+opaque.purple	island.punch	1	0	0	0		0	1	0	1	0	0	0	0	0	0	0	0		0	0	0	0
