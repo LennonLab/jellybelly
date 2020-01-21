@@ -115,7 +115,7 @@ ShanH <- function(x = ""){
   return(H)
 }
 
-ShanH(t(jb[,5]))
+ShanH(t(jb$count))
 ```
 
 
